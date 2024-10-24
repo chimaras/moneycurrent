@@ -1,29 +1,28 @@
 {
-    "hosting": {
-      "public": "public",
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ],
-      "rewrites": [
-        {
-          "source": "**",
-          "destination": "/index.html"
-        }
-      ]
-    },
-    "flutter": {
-      "platforms": {
-        "dart": {
-          "lib/firebase_options.dart": {
-            "projectId": "moneycurrent-app",
-            "configurations": {
-              "web": "1:764854630705:web:978f969303d21feacc1810"
-            }
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "moneycurrent-app",
+          "configurations": {
+            "web": "1:764854630705:web:978f969303d21feacc1810"
           }
         }
       }
     }
   }
-  
+}

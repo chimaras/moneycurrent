@@ -1,0 +1,1 @@
+ C:\\moneycurrent\\.dart_tool\\flutter_build\\24dcdeac15f28e1fe73735726c5e2118\\native_assets.yaml: 

@@ -173,6 +173,13 @@ file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_web-0.5.10+2/lib/interop/analytics.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_web-0.5.10+2/lib/interop/analytics_interop.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_web-0.5.10+2/lib/utils/exception.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/firebase_auth.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/confirmation_result.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/firebase_auth.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/multi_factor.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/recaptcha_verifier.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/user.dart
+file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-5.3.1/lib/src/user_credential.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.4.7/lib/firebase_auth_platform_interface.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.4.7/lib/src/action_code_info.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.4.7/lib/src/action_code_settings.dart
@@ -319,7 +326,6 @@ file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_w
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_web-3.10.3/lib/src/utils/metadata.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_web-3.10.3/lib/src/utils/metadata_cache.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_web-3.10.3/lib/src/utils/task.dart
-file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.8/lib/fluttertoast.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.8/lib/fluttertoast_web.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.2/lib/http.dart
 file:///C:/Users/chima/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.2/lib/src/base_client.dart
@@ -1463,7 +1469,9 @@ file:///C:/Users/chima/dev/flutter/packages/flutter_web_plugins/lib/src/plugin_r
 file:///C:/moneycurrent/.dart_tool/flutter_build/309b0ca34262b8503b61880a5e0ec018/app.dill
 file:///C:/moneycurrent/.dart_tool/flutter_build/309b0ca34262b8503b61880a5e0ec018/main.dart
 file:///C:/moneycurrent/.dart_tool/flutter_build/309b0ca34262b8503b61880a5e0ec018/web_plugin_registrant.dart
+file:///C:/moneycurrent/lib/firebase_options.dart
 file:///C:/moneycurrent/lib/main.dart
+file:///C:/moneycurrent/lib/screens/auth_screen.dart
 org-dartlang-sdk:///dart-sdk/lib/_http/crypto.dart
 org-dartlang-sdk:///dart-sdk/lib/_http/embedder_config.dart
 org-dartlang-sdk:///dart-sdk/lib/_http/http.dart
