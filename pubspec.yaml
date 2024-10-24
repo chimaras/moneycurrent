@@ -1,0 +1,50 @@
+name: moneycurrent
+description: "A Flutter project for MoneyCurrent with Firebase Authentication and Hosting."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase dependencies
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  firebase_analytics: any
+  cloud_firestore: any
+
+  # Firebase hosting for web
+  firebase_storage: any
+  firebase_database: ^11.1.4
+  
+  # State management
+  provider: any
+
+  # UI and UX
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  fluttertoast: ^8.2.8
+
+  # HTTP requests (for future integrations)
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/  # Add your assets folder here if needed
+
+  fonts:
+    - family: GoogleFonts
+      fonts:
+        - asset: google_fonts/Lato-Regular.ttf
+
