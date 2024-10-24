@@ -18,7 +18,6 @@ class _AuthScreenState extends State<AuthScreen> {
         password: _passwordController.text,
       );
       print('Signed in: ${userCredential.user?.email}');
-      // Navega a la pantalla principal después de iniciar sesión
       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => HomePage()));
     } catch (e) {
       print('Error: $e');
@@ -33,7 +32,6 @@ class _AuthScreenState extends State<AuthScreen> {
         password: _passwordController.text,
       );
       print('Registered: ${userCredential.user?.email}');
-      // Navega a la pantalla principal después de registrarse
       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => HomePage()));
     } catch (e) {
       print('Error: $e');
@@ -95,3 +93,4 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
